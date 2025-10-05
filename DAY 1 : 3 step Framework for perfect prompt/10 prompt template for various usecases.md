@@ -216,9 +216,4 @@ Design a system that includes:
 
 ---
 
-💡 **Pro Tip for Lead Magnet Design:**
-You can package all 10 prompts as a **“10 AI Prompt Templates for Smarter Living & Learning”** PDF — include one-line instructions like:
 
-> “👉 Replace the text in [brackets] with your own info, then paste it into ChatGPT.”
-
-Would you like me to format these 10 prompts into a **minimal, downloadable PDF layout** (like your first GitHub lead magnet version)? I can make it clean and ready to share.
